@@ -1,12 +1,19 @@
 # Atomic24-GlamBot
  Atomic24-GlamBot
 GlamBot - Conversational Outfit Generator Powered by GenAI
+
 TEAM : ATOMIC24
+
 Team Members
+
 Sweekriti Pant
+
 Sanskar Jain
+
 Aashish Kumar
+
 College : Kalinga Institute of Industrial Technology
+
 
 To run the application, follow the following steps
 Step 1 Install all the requirements
